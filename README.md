@@ -44,8 +44,10 @@ Hands-On:
     * with a Linux host OS, or
     * a Linux guest virtual machine on the notebook
     * or prepare a Linux server they can access remotely from their notebook
-* You need root access on that machine
+* You need root access on that machine, and be able to edit configuration files
+* You should have the Apache Web Server installed, preferably with mod_ssl and a  server certificate
 * Your machine should be configured such that you can resolve a URL like https://localhost/my-application.php, or https://127.0.0.1:2345/my-app.pl, or https://my-server.org/my-app.jsp from your desktop / Web browser.
+* It would be great if you could bring your own application. However, we can also use a dummy application, in this case please install PHP.
 
 It *is* certainly possible to use a Windows OS for installation of the Shibboleth SP. We can give hints as we go along for participants wishing to use Windows.
 

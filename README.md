@@ -41,9 +41,9 @@ Hands-On:
 
 # Preparing for the AAI Track
 * Participants should bring their own notebooks, either 
-.* with a Linux host OS, or
-.* a Linux guest virtual machine on the notebook
-.* or prepare a Linux server they can access remotely from their notebook
+ * with a Linux host OS, or
+ * a Linux guest virtual machine on the notebook
+ * or prepare a Linux server they can access remotely from their notebook
 * You need root access on that machine
 * Your machine should be configured such that you can resolve a URL like https://localhost/my-application.php, or https://127.0.0.1:2345/my-app.pl, or https://my-server.org/my-app.jsp from your desktop / Web browser.
 
